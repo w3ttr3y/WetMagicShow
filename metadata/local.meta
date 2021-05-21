@@ -1,0 +1,19 @@
+[app/ui]
+version = 8.1.0
+modtime = 1621469821.958351000
+
+[app/launcher]
+version = 8.1.0
+modtime = 1621469821.960409000
+
+[macros/magic_index]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.1.0
+modtime = 1621469928.313584000
+
+[indexes/magic]
+owner = admin
+version = 8.1.0
+modtime = 1621566480.433572000
